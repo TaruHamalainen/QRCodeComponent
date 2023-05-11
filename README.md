@@ -1,0 +1,2 @@
+# QRCodeComponent
+Frontendmentor.io challenge
